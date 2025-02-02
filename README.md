@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning what it takes to become a Web-/ & Softwaredeveloper by doing a reschooling
   (germ. Umschulung) as a Software Developement Specialist (Fachinformatiker - Anwendungsentwicklung)
 
-- 📫 You can contact me via LinkedIn (www.linkedin.com/in/elijah-mayer-8a2b7a241)
+- 📫 You can contact me via LinkedIn
 - ⚡ Fun fact: ...
 
 <!---
