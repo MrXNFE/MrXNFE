@@ -4,7 +4,8 @@
   (germ. Umschulung) as a Software Developement Specialist (Fachinformatiker - Anwendungsentwicklung)
 
 - 📫 You can contact me via LinkedIn
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+               - i got a dual citizenship (german / american) so if anybody is looking for a hire or intern hmu :D
 
 <!---
 MrXNFE/MrXNFE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
